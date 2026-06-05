@@ -3,8 +3,8 @@ import time
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 # --- CONFIGURATION ---
-TOKEN = 8770808986:AAGCkY93I_cEg11CuSmzTa2-sF4aVTrhcQA
-CHAT_ID = 8770808986
+TOKEN = "8770808986:AAGCkY93I_cEg11CuSmzTa2-sF4aVTrhcQA"
+CHAT_ID = "8770808986"
 WATCHLIST = ['BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'BNB/USDT']
 TIMEFRAME = "5m"
 # ---------------------
